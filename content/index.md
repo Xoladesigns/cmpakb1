@@ -1,6 +1,12 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Word Press  
 ---
+# Contents 
+I plan on doing wordpress as my topic because it is interesting, I wanted to know more how to use it and this was the perfect time to create a personal reference guide and it is a hobby kind of sorta I can't say I am passionate about wordpress but I am passionate about a good portfolio. 
+1. Introduction 
+2. Getting started 
+3. More topics pending 
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
@@ -24,16 +30,6 @@ Visual Studio Code (vscode) is a popular free and open source code editor.
 Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
 
 Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
 
 ---
 ## Adding new pages
