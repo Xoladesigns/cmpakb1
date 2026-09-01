@@ -3,9 +3,13 @@ title: Word Press
 ---
 # Contents 
 I plan on doing wordpress as my topic because it is interesting, I wanted to know more how to use it and this was the perfect time to create a personal reference guide and it is a hobby kind of sorta I can't say I am passionate about wordpress but I am passionate about a good portfolio. 
-1. Introduction 
-2. Getting started 
-3. More topics pending 
+- [[Introduction]]
+- [[Settings]]
+- [[Themes]] 
+- [[Plugins]]
+- [[WebsiteDesign]]
+- [[Troubleshooting]]
+- [[TipsTricks]]
 
 ## The index page
 
