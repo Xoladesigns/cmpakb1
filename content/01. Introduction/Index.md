@@ -2,8 +2,6 @@
 title: Introduction
 ---
 
-
-
 [[introduction]]  
 1. [[Installing Wordpress]] 
 2. [[What is Wordpress]]

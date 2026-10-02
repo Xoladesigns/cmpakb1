@@ -10,7 +10,4 @@ I plan on doing wordpress as my topic because it is interesting, I wanted to kno
 - [[05. Building A Website/Index]]
 - [[06. Advanced Features]]
 - [[07. Troubleshooting/Index]]
-- 
-## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.

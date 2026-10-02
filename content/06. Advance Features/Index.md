@@ -8,4 +8,3 @@ Tags:
 3. [[Multisite]]
 4. [[Custom Taxonomies]]
 5. [[Responsive Websites]]
-6.
