@@ -1,7 +1,6 @@
 ---
-Title: White Screen of Death 
-Description: Solving some issues that cause the most common WordPress errors 
-Tags:
--Troubleshooting
--White screen
+title: White Screen
+desctiption: Common Reasons for the White screen and how to fix it
+tags:
+  - Index
 ---

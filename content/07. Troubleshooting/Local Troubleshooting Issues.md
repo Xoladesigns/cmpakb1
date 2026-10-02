@@ -1,5 +1,6 @@
 ---
 title: Local Server Troubleshooting
+desctiption: Errors installing local
 ---
 When working on local there are some plugins that are not needed and can cause issues. 
 - Any security plugins are not needed because when using local it is only on your computer. 
