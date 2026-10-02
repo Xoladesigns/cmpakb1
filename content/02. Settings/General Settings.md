@@ -1,4 +1,4 @@
 ---
 title: Settings
 ---
-[[Settings]]
+[[General Settings]]
