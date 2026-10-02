@@ -15,3 +15,6 @@ Site health: This allows you to manage plugins that are out of date. and see if 
 You can also export/import personal data to comply with **CCPA** and **GDOR** privacy laws  
 
 Erase Personal Data, will clear out all personal data
+
+
+![[tools.jpg]]
