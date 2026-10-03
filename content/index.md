@@ -8,7 +8,6 @@ I plan on doing wordpress as my topic because it is interesting, I wanted to kno
 - [[02. General Settings]]
 - [[03.Themes]] 
 - [[04. Plugins]]
-- [[05. Building A Website/Index]]
-- [[06. Advanced Features]]
-- [[07. Troubleshooting/Index]]
+- [[04. Building A Website/Index]]
+- [[06. Advanced Features]] 
 

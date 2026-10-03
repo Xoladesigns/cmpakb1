@@ -1,9 +1,9 @@
 ---
-Title: Index
+Title: Index Advance Features
 Description: Advance Features
 Tags:
 ---
-1. [[Search Engine Optimization]]
+1. [[Search Engine Optimization (SEO)]]
 2.  [[File Management]]
 3. [[Multisite]]
 4. [[Custom Taxonomies]]
