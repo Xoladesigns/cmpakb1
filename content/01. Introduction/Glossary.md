@@ -26,10 +26,14 @@ Tags:
 
 - **Host:** A server that holds or host space for your website every site on the internet needs to be hosted and have a unique _domain_
 
-- **`functions.p:** A specific theme file that acts like a local plugin, allowing you to paste code snippets to add custom features to your site.
+- **functions.p:** A specific theme file that acts like a local plugin, allowing you to paste code snippets to add custom features to your site.
 
 - **Multisite:** A built-in feature that allows you to create and manage an entire network of multiple virtual websites from a single WordPress installation..
 
 - __Domain__: A domain is a unique address for your site and it's location on the host. 
+
+- **Slugs:** The latter part of the permalink is called the slug. The slug tends to be very close to the original title of the post 
+
+- **Permalinks:** Permanent links are a permanent URL that link to a specific post 
 
 

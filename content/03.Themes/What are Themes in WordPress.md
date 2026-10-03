@@ -1,5 +1,9 @@
 ---
 title: Themes
+tags:
+  - Index
+  - themes
+desctiption: A general description of a theme is.
 ---
 [[What are Themes in WordPress]]
 

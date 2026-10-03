@@ -1,6 +1,6 @@
 ---
 Title: Index
-Description: Tips, tricks,
+Description: Advance Features
 Tags:
 ---
 1. [[Search Engine Optimization]]
@@ -8,3 +8,4 @@ Tags:
 3. [[Multisite]]
 4. [[Custom Taxonomies]]
 5. [[Responsive Websites]]
+6. [[Tips and Tricks]]
